@@ -51,11 +51,10 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://seon-xero.tistory.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/tistory-FE5B4B?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  <a href="https://seon-xero.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-FE5B4B?style=for-the-badge&logo=tistory&logoColor=white" />
   </a>
-  <a href="mailto:seon.xero@gmail.com" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/seon.xero@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="mailto:seon.xero@gmail.com">
+    <img src="https://img.shields.io/badge/seon.xero@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
