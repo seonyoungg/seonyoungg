@@ -2,7 +2,7 @@
 
 <!--Header-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=auto&color=gradient&height=300&section=header&text=SEONYOUNG&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SEONYOUNG&fontSize=80" />
 </div>
 
 <!--내용 부분-->
