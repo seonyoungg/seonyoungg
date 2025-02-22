@@ -58,3 +58,12 @@
     <img src="https://img.shields.io/badge/seon.xero@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seonyoungg&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seonyoungg"
+  width="600"
+  height="300"
+/>
+</a>
