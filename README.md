@@ -62,7 +62,6 @@
 <br>
 <hr>
 <div style="display:flex;align-items:center;justify-content:center;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seonyoungg&utm_content=farm">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seonyoungg&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/seonyoungg"
@@ -70,5 +69,4 @@
     height="300"
   />
 </a>
-  </a>
 </div>
