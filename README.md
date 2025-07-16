@@ -49,7 +49,7 @@
 
 <h3 align="center"> 🎉 GitHub stats 🎉</h3>
 <div align="center">
-![seonyoungg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonyoungg&show_icons=true&theme=radical)
+[seonyoungg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonyoungg&show_icons=true&theme=radical)
 
 </div>
 
