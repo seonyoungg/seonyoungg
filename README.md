@@ -62,11 +62,13 @@
 <br>
 <hr>
 <div style="display:flex;align-items:center;justify-content:center;">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seonyoungg&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/seonyoungg"
+
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/733351063188179970/draw"
     width="100%"
-    height="300"
-  />
-</a>
+      height="300"
+      alt="gitanimals"
+    />
+  </a>
 </div>
