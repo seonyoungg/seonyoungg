@@ -47,11 +47,19 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 <!-- </div> -->
 
-<h3 align="center"> 🎉 GitHub stats 🎉</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seonyoungg&show_icons=true&theme=radical" />
-<!-- [seonyoungg's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonyoungg&show_icons=true&theme=radical) -->
+<h3 align="center">🎉 GitHub Status 🎉</h3>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=seonyoungg&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats" 
+    width="450"
+  />
 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=seonyoungg&layout=compact&langs_count=5&theme=radical&hide_border=true" 
+    alt="Top Languages"
+    width="450"
+  />
 </div>
 
 
