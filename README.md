@@ -48,7 +48,6 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 <!-- </div> -->
 
-<!--
 <h3 align="center">🎉 GitHub Status 🎉</h3>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <img 
@@ -63,7 +62,6 @@
     width="450"
   />
 </div>
--->
 
 
 <br>
