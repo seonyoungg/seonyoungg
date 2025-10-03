@@ -78,14 +78,6 @@
 
 <br>
 <hr>
-<div style="display:flex;align-items:center;justify-content:center;">
-
-  <a href="https://www.gitanimals.org/">
-    <img
-      src="https://render.gitanimals.org/guilds/733351063188179970/draw"
-    width="100%"
-      height="300"
-      alt="gitanimals"
-    />
-  </a>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/seonyoungg/Programmers_Badge_Generator/main/result/result.svg" />
 </div>
